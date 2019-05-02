@@ -12,6 +12,8 @@
 		A3EF3EB2227A85C500FC3339 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3EF3EB0227A85C500FC3339 /* Main.storyboard */; };
 		A3EF3EB4227A85C700FC3339 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3EF3EB3227A85C700FC3339 /* Assets.xcassets */; };
 		A3EF3EB7227A85C700FC3339 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3EF3EB5227A85C700FC3339 /* LaunchScreen.storyboard */; };
+		A3EF3EC0227A878700FC3339 /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3EF3EBE227A878700FC3339 /* BackgroundView.swift */; };
+		A3EF3EC1227A878700FC3339 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3EF3EBF227A878700FC3339 /* CustomTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		A3EF3EB3227A85C700FC3339 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A3EF3EB6227A85C700FC3339 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A3EF3EB8227A85C700FC3339 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3EF3EBE227A878700FC3339 /* BackgroundView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
+		A3EF3EBF227A878700FC3339 /* CustomTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				A3EF3EAC227A85C500FC3339 /* AppDelegate.swift */,
 				A3EF3EAE227A85C500FC3339 /* ViewController.swift */,
+				A3EF3EBE227A878700FC3339 /* BackgroundView.swift */,
+				A3EF3EBF227A878700FC3339 /* CustomTextField.swift */,
 				A3EF3EB0227A85C500FC3339 /* Main.storyboard */,
 				A3EF3EB3227A85C700FC3339 /* Assets.xcassets */,
 				A3EF3EB5227A85C700FC3339 /* LaunchScreen.storyboard */,
@@ -135,6 +141,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3EF3EC1227A878700FC3339 /* CustomTextField.swift in Sources */,
+				A3EF3EC0227A878700FC3339 /* BackgroundView.swift in Sources */,
 				A3EF3EAF227A85C500FC3339 /* ViewController.swift in Sources */,
 				A3EF3EAD227A85C500FC3339 /* AppDelegate.swift in Sources */,
 			);
