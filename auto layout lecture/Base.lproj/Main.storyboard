@@ -57,7 +57,7 @@
                                         <color key="textColor" red="0.28235294117647058" green="0.32156862745098036" blue="0.36078431372549019" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Password" textAlignment="natural" minimumFontSize="17" background="textfield-background" translatesAutoresizingMaskIntoConstraints="NO" id="ERo-L3-NJp" customClass="CustomTextField" customModule="auto_layout_lecture" customModuleProvider="target">
+                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Password" textAlignment="natural" minimumFontSize="17" background="textfield-background" translatesAutoresizingMaskIntoConstraints="NO" id="ERo-L3-NJp" customClass="CustomTextField" customModule="auto_layout_lecture" customModuleProvider="target">
                                         <rect key="frame" x="98" y="142" width="229" height="44"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="44" id="YGr-pp-Wl4"/>
@@ -66,7 +66,7 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </textField>
-                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Contact add" textAlignment="natural" minimumFontSize="17" background="textfield-background" translatesAutoresizingMaskIntoConstraints="NO" id="oZs-ai-jDC" customClass="CustomTextField" customModule="auto_layout_lecture" customModuleProvider="target">
+                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Contact add" textAlignment="natural" minimumFontSize="17" background="textfield-background" translatesAutoresizingMaskIntoConstraints="NO" id="oZs-ai-jDC" customClass="CustomTextField" customModule="auto_layout_lecture" customModuleProvider="target">
                                         <rect key="frame" x="98" y="90" width="229" height="44"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="44" id="XmC-iM-loa"/>
